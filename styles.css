@@ -1,0 +1,26 @@
+.error {
+    color: red;
+}
+
+window {
+    background-color: #f0f0f0;
+    padding: 20px;
+}
+
+label {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 18px;
+}
+
+entry {
+    font-size: 18px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
